@@ -18,3 +18,7 @@ A safe workflow for staging intended changes, splitting unrelated work, and crea
 ## Usage
 
 Use when asked to stage, split, prepare, or commit work. Keep commits coherent and avoid including unrelated changes. The skill requires clear reporting of commit hashes, checks, and remaining work.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
